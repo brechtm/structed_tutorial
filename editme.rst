@@ -188,7 +188,7 @@ To convert a paragraph to a **bullet list** item, use the *Ctrl-Alt-B*
 shortcut. A new bullet list can be created by starting a paragraph with a
 hyphen (``-``) and a space, after which you can start entering the list item
 text. Pressing *Enter* at the end of a list item paragraph creates a new list
-item. At this point amyou have three options:
+item. At this point you have three options:
 
 1. Enter the text for the new list item paragraph.
 
@@ -251,8 +251,8 @@ Target
 ~~~~~~
 
 A target directive provides an anchor for references. The target label is a
-unique It to ideyingfy the target. The target directive abovwithal label
-*targets* proveses an anchor for thisectionph. If the optional *alias target*
+unique ID identifying the target. The target directive above with label
+*targets* provides an anchor for this section. If the optional *alias target*
 is filled in, the label is interpreted as an alias for the alias target. For
 example:
 
